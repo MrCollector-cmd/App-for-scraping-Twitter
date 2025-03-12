@@ -1,0 +1,212 @@
+[
+  {
+    "url": "https://dexscreener.com/solana/6mhkhqrdnxonznblcew1nwdvjaqqi1ucwyeimdtiwsmk",
+    "chainId": "solana",
+    "tokenAddress": "6mhkHQRdnXoNZNbLcEw1nWDVJaQqi1ucWyeimdTiWSmk",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/6mhkHQRdnXoNZNbLcEw1nWDVJaQqi1ucWyeimdTiWSmk.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/6mhkHQRdnXoNZNbLcEw1nWDVJaQqi1ucWyeimdTiWSmk/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6mhkHQRdnXoNZNbLcEw1nWDVJaQqi1ucWyeimdTiWSmk?timestamp=1741788000000",
+    "description": "$BUY the dip and HODL",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://buythedip.baby/"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/buyuponly"
+      }
+    ]
+  },
+  {
+    "url": "https://dexscreener.com/base/0xb887cac66cf5eaaa0bf0cdb5d76905e19bc391a5",
+    "chainId": "base",
+    "tokenAddress": "0xb887CAC66Cf5eaaA0bF0cDB5d76905e19BC391A5",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/base/0xb887cac66cf5eaaa0bf0cdb5d76905e19bc391a5.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/base/0xb887cac66cf5eaaa0bf0cdb5d76905e19bc391a5/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0xb887cac66cf5eaaa0bf0cdb5d76905e19bc391a5?timestamp=1741788000000",
+    "description": "Where Sports Bettors Become Winners with AI & Quantum Computing! Built by the smartest gambling minds in the world and powered by quantum computing, it’s trained on exclusive data no one else can access, giving you an edge like never before.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://sharpai.io/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/sharpai?igsh=MWczM2xleGxwcXB6dA=="
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/sharpsportsai?s=21"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/thesharpaiportal"
+      }
+    ]
+  },
+  {
+    "url": "https://dexscreener.com/solana/ckaeawq4z6kzngzrkh8t9wzdtwb3sfpe95spa2zgpump",
+    "chainId": "solana",
+    "tokenAddress": "CkaeAWQ4Z6kzNGZrKh8T9WzDTWb3SfpE95SpA2zgpump",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/CkaeAWQ4Z6kzNGZrKh8T9WzDTWb3SfpE95SpA2zgpump.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/CkaeAWQ4Z6kzNGZrKh8T9WzDTWb3SfpE95SpA2zgpump/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/CkaeAWQ4Z6kzNGZrKh8T9WzDTWb3SfpE95SpA2zgpump?timestamp=1741788000000",
+    "description": "Behold the sentient code of chaos—your all-in-one DeFi overlord, bestowed upon you with 69% more sassy wit, 100% less rugpulls, a clandestine meme factory beyond mortal comprehension, and an unflinching gaze into your portfolio’s tragic fate. Proceed, if thou dare",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://wtf69.ai/"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/WTF69ai"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/wtf69ai"
+      }
+    ]
+  },
+  {
+    "url": "https://dexscreener.com/ethereum/0xfc7daf98a9521c102054fa16e0d73dc7079ab8b5",
+    "chainId": "ethereum",
+    "tokenAddress": "0xFC7DaF98A9521c102054Fa16E0D73dc7079Ab8b5",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xfc7daf98a9521c102054fa16e0d73dc7079ab8b5.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/ethereum/0xfc7daf98a9521c102054fa16e0d73dc7079ab8b5/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/ethereum/0xfc7daf98a9521c102054fa16e0d73dc7079ab8b5?timestamp=1741788000000",
+    "description": "Cyb3 AI is an innovative , All-in-AI Technology platform a state-of-the-art platform designed to harness the power of advanced artificial intelligence for a wide range of applications.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://cyb3.ai"
+      },
+      {
+        "label": "Docs",
+        "url": "https://docs.cyb3.ai/"
+      },
+      {
+        "label": "Medium",
+        "url": "https://medium.com/@cyb3ai"
+      },
+      {
+        "label": "Github",
+        "url": "https://github.com/cyb3ai"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/cyb3ai"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/Cyb3ai"
+      }
+    ]
+  },
+  {
+    "url": "https://dexscreener.com/solana/bfagfogktsu58xk4z6c5a2b2a83xruuryywjdeuipump",
+    "chainId": "solana",
+    "tokenAddress": "BfAgFogkTsu58Xk4z6c5a2b2A83XRuUrYYWJdEUipump",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/BfAgFogkTsu58Xk4z6c5a2b2A83XRuUrYYWJdEUipump.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/BfAgFogkTsu58Xk4z6c5a2b2A83XRuUrYYWJdEUipump/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/BfAgFogkTsu58Xk4z6c5a2b2A83XRuUrYYWJdEUipump?timestamp=1741788000000",
+    "description": "DOGE TAKES ON THE NIH!",
+    "links": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/DOGE_NIH#ref=1e32fef4-216c-48b1-8969-9aa6a41a6586"
+      }
+    ]
+  },
+  {
+    "url": "https://dexscreener.com/solana/4expp3j7gallurxbqr97bmi1zew5qcfzdvsh8uxzw6nz",
+    "chainId": "solana",
+    "tokenAddress": "4EXPP3j7gALLURxBqR97bMi1zEW5qcfzDVSH8UXzw6Nz",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/4EXPP3j7gALLURxBqR97bMi1zEW5qcfzDVSH8UXzw6Nz.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/4EXPP3j7gALLURxBqR97bMi1zEW5qcfzDVSH8UXzw6Nz/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/4EXPP3j7gALLURxBqR97bMi1zEW5qcfzDVSH8UXzw6Nz?timestamp=1741788000000",
+    "description": "The most iconic meme token onchain",
+    "links": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/DogeIconSolana"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/DogeIconSolana"
+      }
+    ]
+  },
+  {
+    "url": "https://dexscreener.com/solana/33gp63ntlvtdnnybrafozokeiey9nsywqumaum7utmyu",
+    "chainId": "solana",
+    "tokenAddress": "33gp63NTLVtdnNyBrAFozoKeiEY9NsywqUMauM7utmYU",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/33gp63NTLVtdnNyBrAFozoKeiEY9NsywqUMauM7utmYU.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/33gp63NTLVtdnNyBrAFozoKeiEY9NsywqUMauM7utmYU/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/33gp63NTLVtdnNyBrAFozoKeiEY9NsywqUMauM7utmYU?timestamp=1741788000000",
+    "description": "SUNPEPE is a vibrant meme token that radiates the energy of the Solana blockchain.",
+    "links": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/ckkij17358962"
+      }
+    ]
+  },
+  {
+    "url": "https://dexscreener.com/base/0x3d9dc963706fc7f60c81362d9817b00871968cb7",
+    "chainId": "base",
+    "tokenAddress": "0x3D9DC963706FC7F60C81362D9817B00871968Cb7",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/base/0x3d9dc963706fc7f60c81362d9817b00871968cb7.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/base/0x3d9dc963706fc7f60c81362d9817b00871968cb7/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0x3d9dc963706fc7f60c81362d9817b00871968cb7?timestamp=1741788000000",
+    "description": "Official token made by Grok.",
+    "links": [
+      {
+        "type": "twitter",
+        "url": "https://x.com/grok/status/1899803567378059449"
+      }
+    ]
+  },
+  {
+    "url": "https://dexscreener.com/solana/6irc3s3wi3y69d1ud2yc2w1hyr8c97fxw5qgy5dlpump",
+    "chainId": "solana",
+    "tokenAddress": "6irC3s3wi3Y69D1uD2yC2W1HyR8C97fxW5qGy5dLpump",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/solana/6irC3s3wi3Y69D1uD2yC2W1HyR8C97fxW5qGy5dLpump.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/solana/6irC3s3wi3Y69D1uD2yC2W1HyR8C97fxW5qGy5dLpump/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/solana/6irC3s3wi3Y69D1uD2yC2W1HyR8C97fxW5qGy5dLpump?timestamp=1741788000000",
+    "description": "Vace AI",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://huggingface.co/papers/2503.07598"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/CodeByPoonam/status/1899806011990659529/photo/1"
+      }
+    ]
+  },
+  {
+    "url": "https://dexscreener.com/base/0x8db848881e81b6c060dc52de79f03e624b3b62ca",
+    "chainId": "base",
+    "tokenAddress": "0x8dB848881e81B6c060DC52De79f03e624B3B62CA",
+    "icon": "https://dd.dexscreener.com/ds-data/tokens/base/0x8db848881e81b6c060dc52de79f03e624b3b62ca.png",
+    "header": "https://dd.dexscreener.com/ds-data/tokens/base/0x8db848881e81b6c060dc52de79f03e624b3b62ca/header.png",
+    "openGraph": "https://cdn.dexscreener.com/token-images/og/base/0x8db848881e81b6c060dc52de79f03e624b3b62ca?timestamp=1741788000000",
+    "description": "The brand new tesla's bought by trump for full price to support $TESLA!",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://trumpsnewtesla.xyz"
+      },
+      {
+        "type": "twitter",
+        "url": "https://x.com/realDonaldTrump/status/1899636898533867969"
+      },
+      {
+        "type": "telegram",
+        "url": "https://t.me/TrumpsNewTesla"
+      }
+    ]
+  }
+]
