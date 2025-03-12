@@ -18,7 +18,7 @@ export async function startBrowser(): Promise<Browser> {
 
     try {
         browserInstance = await puppeteer.launch({
-            headless: false,
+            headless: true,
             args: [
                 '--no-sandbox',
                 '--disable-setuid-sandbox',
