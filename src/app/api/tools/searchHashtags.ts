@@ -3,18 +3,29 @@ import { extractTweetsByHashtag } from '../scraper/hashtagExtractor';
 import { createInfoDirectory, loadExistingData, saveData } from '../utils/fileHandle';
 import { delay } from '../utils/delay';
 
+// Definir el tipo de datos que esperamos guardar para cada hashtag
+interface HashtagData {
+    [key: string]: any; // Aquí puedes especificar un tipo más detallado para los datos si lo necesitas
+}
+
 export async function SearchTweetsInHashtags(hashtags: string[]): Promise<void> {
     await createInfoDirectory();
-    let existingData = await loadExistingData('infoHashtag.json');
+    
+    // Cargar los datos existentes con el tipo HashtagData
+    let existingData: HashtagData = await loadExistingData('infoHashtag.json');
     let browser;
 
     try {
         browser = await startBrowser();
         const page = await openNewPage(browser);
 
+        // Procesar cada hashtag
         for (const hashtag of hashtags) {
             try {
+                // Extraer los tweets asociados al hashtag
                 const tweetsData = await extractTweetsByHashtag(page, hashtag);
+
+                // Guardar los datos de tweets asociados al hashtag
                 existingData[hashtag] = tweetsData;
                 await saveData(existingData, 'infoHashtag.json');
 
@@ -28,7 +39,7 @@ export async function SearchTweetsInHashtags(hashtags: string[]): Promise<void> 
         console.error('Error al iniciar Puppeteer:', browserError);
     } finally {
         if (browser) {
-            // cierra el navegador 
+            // Cerrar el navegador
             await closeBrowser(browser);
         }
     }

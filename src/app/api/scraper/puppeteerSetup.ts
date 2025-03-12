@@ -18,15 +18,15 @@ export async function startBrowser(): Promise<Browser> {
 
     try {
         browserInstance = await puppeteer.launch({
-            headless: false, // Establece el navegador en modo no headless
+            headless: false,
             args: [
                 '--no-sandbox',
                 '--disable-setuid-sandbox',
-                '--disable-dev-shm-usage', 
+                '--disable-dev-shm-usage',
                 '--disable-gpu',
                 '--disable-software-rasterizer'
             ],
-            slowMo: 200, // Hace las interacciones más naturales
+            slowMo: 200,
         });
 
         console.log('Navegador iniciado correctamente.');
